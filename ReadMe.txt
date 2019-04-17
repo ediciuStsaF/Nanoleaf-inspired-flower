@@ -7,4 +7,6 @@ and push implement.
 
 Then it should work...
 
-If  not, let me know..
+If  not, let me know.
+
+ATTENTION: got problems by using names like "rainbow twinkle" "rainbow" cause alexa recognizes "rainbow" twice. You have to use names only once. maybe like "rainbow" and "twinklebow" "glitterbow"  or something like that
