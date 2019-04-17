@@ -1,10 +1,6 @@
 Hello,
 
-for Alexa integration just make it with this excellent introductions: https://github.com/NimmLor/esp8266-nanoleaf-webserver
-
-instead of the NodeRED_flows.txt you use Blume_NodeRed_import.txt for import... 
-and push implement.
-
+just make it with this excellent introductions: https://github.com/NimmLor/esp8266-nanoleaf-webserver
  
 The Flower: https://www.thingiverse.com/thing:3497678
 
